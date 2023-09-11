@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "y2PdL9f0xjIo9tP8hUmmYVaiqqCCo65GnoJCyxSN0kI=",
+  "Source": "ECommerce_Api2",
+  "BasePath": "_content/ECommerce_Api2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce_Api2\\wwwroot",
+      "Source": "ECommerce_Api2",
+      "ContentRoot": "G:\\Projects\\ECommerce_Api2\\ECommerce_Api2\\wwwroot\\",
+      "BasePath": "_content/ECommerce_Api2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
